@@ -9,7 +9,7 @@
     "@sentry/node": "7.120.1",
     "got": "11.8.5",
     "node-fetch": "2.6.7",
-    "parse-github-url": "1.0.2",
+    "parse-github-url": "1.0.3",
     "tar-fs": "2.0.0"
   },
   "devDependencies": {
